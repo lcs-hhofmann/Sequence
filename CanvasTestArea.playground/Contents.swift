@@ -108,27 +108,27 @@ canvas.drawEllipse(centreX: 450, centreY: 500, width: 100, height: 100)
 //Make the rainbow
 canvas.drawShapesWithFill = false
 canvas.borderColor = Color.red
-canvas.drawEllipse(centreX: 250, centreY: 0, width: 500, height: 400, borderWidth: 25)
+canvas.drawEllipse(centreX: 250, centreY: 0, width: 500, height: 450, borderWidth: 25)
 
 canvas.drawShapesWithFill = false
 canvas.borderColor = Color.orange
-canvas.drawEllipse(centreX: 250, centreY: 0, width: 450, height: 350, borderWidth: 25)
+canvas.drawEllipse(centreX: 250, centreY: 0, width: 450, height: 400, borderWidth: 25)
 
 canvas.drawShapesWithFill = false
 canvas.borderColor = Color.yellow
-canvas.drawEllipse(centreX: 250, centreY: 0, width: 400, height: 300, borderWidth: 25)
+canvas.drawEllipse(centreX: 250, centreY: 0, width: 400, height: 350, borderWidth: 25)
 
 canvas.fillColor = Color.green
 canvas.borderColor = Color.green
-canvas.drawEllipse(centreX: 250, centreY: 0, width: 350, height: 250, borderWidth: 25)
+canvas.drawEllipse(centreX: 250, centreY: 0, width: 350, height: 300, borderWidth: 25)
 
 canvas.drawShapesWithFill = false
 canvas.borderColor = Color.blue
-canvas.drawEllipse(centreX: 250, centreY: 0, width: 300, height: 200, borderWidth: 25)
+canvas.drawEllipse(centreX: 250, centreY: 0, width: 300, height: 250, borderWidth: 25)
 
 canvas.drawShapesWithFill = false
 canvas.borderColor = Color.purple
-canvas.drawEllipse(centreX: 250, centreY: 0, width: 250, height: 150, borderWidth: 25)
+canvas.drawEllipse(centreX: 250, centreY: 0, width: 250, height: 200, borderWidth: 25)
 
 
 
